@@ -1,0 +1,14 @@
+{
+  "name": "DeFractor",
+  "description": "DeFractor is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://00c04c59-4c52-427a-84a7-1cc10e903467.vercel.app",
+  "properties": {
+    "app": {
+      "name": "DeFractor",
+      "description": "DeFractor is a Base Mini App built with Zara.",
+      "url": "https://00c04c59-4c52-427a-84a7-1cc10e903467.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

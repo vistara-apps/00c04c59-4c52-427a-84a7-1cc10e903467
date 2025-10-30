@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "DeFractor: BG Remover",
-    "homeUrl": "https://defractor.app",
+    "homeUrl": "https://app-0e903467-cr14.vercel.app",
     "iconUrl": "https://defractor.app/icon.png",
     "splashImageUrl": "https://defractor.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://api.defractor.app/webhook/farcaster",
+    "webhookUrl": "https://app-0e903467-cr14.vercel.app/api/webhook",
     "subtitle": "Remove backgrounds instantly",
     "description": "Instantly remove image backgrounds onchain, right from Farcaster. Create, share, and save your transparent images as NFTs.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://defractor.app/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["image", "editing", "background-removal", "nft", "creative"],
+    "tags": [
+      "image",
+      "editing",
+      "background-removal",
+      "nft",
+      "creative"
+    ],
     "heroImageUrl": "https://defractor.app/hero.png",
     "tagline": "Clear backgrounds, create onchain",
     "ogTitle": "DeFractor - Remove Backgrounds Onchain",
